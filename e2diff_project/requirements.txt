@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision
+numpy
+opencv-python
+tqdm
+lpips
+accelerate>=0.25
+scikit-image
+pytorch-fid
+# optional: LMD metric
+face-alignment
